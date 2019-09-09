@@ -1,5 +1,10 @@
 # PHP Macaroons Changelog
 
+## [2.0.0] - 2019-09-09
+### Changed
+- Removed `ext-libsodium` requirement since it is now included in PHP 7.2
+- Raised required PHP version to 7.2
+
 ## [1.0.0] - 2015-12-23
 ### Changed
 - Updated `libsodium` to `1.*` which is currently 1.0.2
